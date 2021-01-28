@@ -1,0 +1,42 @@
+#sqr {
+    width: 350px;
+    height: 350px;
+    background-color: #7fff00;
+    display: flex;
+
+    flex-direction: row-reverse;
+    align-items: flex-end;
+
+
+}
+#a{
+
+    width:100px ;
+    height: 100px;
+    background-color: darkorange;
+    align-self: end;
+    margin-left: 5px;
+}
+#b {
+
+    width: 100px;
+    height: 100px;
+    background-color: darkorange;
+    align-self: end;
+}
+
+#c {
+
+    width: 100px;
+    height: 100px;
+    background-color: darkorange;
+    align-self: center;
+}
+
+#d {
+
+    width: 100px;
+    height: 100px;
+    background-color: darkorange;
+
+}

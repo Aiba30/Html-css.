@@ -1,0 +1,36 @@
+.main{
+    text-align: center;
+}
+header{
+    background-color: black;
+    color: white;
+    padding: 15px 0px 35px;
+
+
+
+
+
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+
+}
+body{
+    background-image: url("https://avatanplus.com/files/resources/mid/58d269057759215af5ea3d71.jpg");
+    margin: 0px 0px 0px 0px;
+}
+img{
+    margin-bottom:250px;
+}
+.ph{
+
+    position: fixed;
+    width: 140px;
+    height: 140px;
+    border-radius: 100%;
+    border: 5px deepskyblue outset;
+
+}
